@@ -1,0 +1,3 @@
+[submodule "lp"]
+	path = lp
+	url = https://github.com/dpwright/lp.scm
